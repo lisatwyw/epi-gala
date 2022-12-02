@@ -19,6 +19,11 @@
 | Cross-over | |  [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) | |
 | | |
 
+| Topic  | Reading | Extra reading | Colab demos |  Keyterms |
+| -- |  -- |-- | -- |-- |
+| Maximum likelihood |  | Likelihood; AIC; BIC; ```source``` |
+| Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
+
 ## Ultimate goals  
 
 - Communication skills: Epidemiologists use speaking and writing skills to inform officials and the public, such as for community outreach activities to explain health risks. They also must be able to convey information effectively to other health workers.
