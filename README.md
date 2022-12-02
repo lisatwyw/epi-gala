@@ -8,7 +8,7 @@
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Keyterms |
 | -- |  -- |-- | -- |-- |
-| Bivariate regression & correlation | | Bland:11 | |
+| Bivariate regression & correlation |  Bland:11 | | [Bivariate regression vs correlation](https://github.com/lisatwyw/epi-galla/blob/main/1st_bivariate_regression.ipynb) | ```data.frame```; ```t()```; ```matrix()```|
 | Linear regression | Jekel:12; Bland:13 | |
 | Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
 ||
