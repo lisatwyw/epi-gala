@@ -8,13 +8,13 @@
 | -- |  -- |-- | -- |-- |
 | Bivariate regression & correlation | | Bland:11 | |
 | Linear regression | Jekel:12; Bland:13 | |
-| Logistic regression |  | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
+| Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
 ||
-| Frequency measures|  Jekel:2; Szklo:3 | 
+| Frequency measures| Jekel:2; Szklo:3 | 
 | Probability; PDFs; Bayes’ Theorem  | Jekel:7-8| [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
 | Hypothesis testing | Jekel:10-11 |  |  | Confidence interval; standard error | 
 |||
-| Survival data analysis w/ CPH| | ||
+| Survival data analysis w/ CPH| Bland:16 | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) | |
 | Study designs |
 | Cross-over | |  [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) | |
 | | |
