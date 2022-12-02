@@ -6,7 +6,7 @@
  
 ### Epi toolkits
  
-| Topic  | Relevant chapters | Supp. readings | Colab demos |  Keyterms |
+| Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
 | Bivariate regression & correlation |  Bland:11 | | [Bivariate regression vs correlation](https://github.com/lisatwyw/epi-galla/blob/main/1st_bivariate_regression.ipynb) | ```data.frame```; ```t()```; ```matrix()```|
 | Linear regression | Jekel:12; Bland:13 | |
@@ -21,13 +21,14 @@
 | Cross-over | |  [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) | |
 | | |
 
-## Replication
+## Advanced topics
 
-| Topic  | Reading | Extra reading | Colab demos |  Keyterms |
+| Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
 | Reproducibility | | [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) ||
 | Maximum likelihood |  | Likelihood; AIC; BIC; ```source()``` |
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
+
 
 ## Ultimate goals  
 
