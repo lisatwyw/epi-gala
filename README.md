@@ -8,6 +8,7 @@
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
 | -- |  -- |-- | -- |-- |
+| Describing variations in data | Jekel:9 | |
 | Bivariate regression & correlation |  Bland:11 | | [Bivariate regression vs correlation](https://github.com/lisatwyw/epi-galla/blob/main/1st_bivariate_regression.ipynb) | ```data.frame```; ```t()```; ```matrix()```|
 | Linear regression | Jekel:12; Bland:13 | | [Funnel plot, etc.](https://github.com/lisatwyw/epi-galla/blob/main/LR_recap.ipynb) | |
 | Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
@@ -17,18 +18,22 @@
 | Bayesian approach  | Bland:22 | | | P(D;T)∝P(T;D)xP(D) |
 | Hypothesis testing | Jekel:10-11 |  |  | Confidence interval; standard error | 
 |||
+| Clinical Epi | Jekel:7-8 |  
 | Survival data analysis w/ CPH| Bland:16 | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
 | Study designs |
-| Observational| Bland:3; Szklo:1  | |
-| Experimental | Bland:2; Jekel:4,5,12-13 |
-| Cross-over | |  [Series #18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345345/pdf/Dtsch_Arztebl_Int-109-0276.pdf) | |
-| | |
+| Experimental | Bland:2; Jekel:4,12-13 |
+| Observational| Bland:3; Szklo:1; Jekel:5  | | | Nested case-control; RCT|
+| Cross-over | | [Series #18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345345/pdf/Dtsch_Arztebl_Int-109-0276.pdf) | |
+| Biases | Jekel:4 | |
 
 ## Advanced topics
 
+Textbook:
+
+
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
-| Reproducibility | | [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) | [```for```loop](https://colab.research.google.com/drive/1YFrdQoDtLMLczXt0PHXKwHEFDa8Ee4rV?authuser=1#scrollTo=2_for_loop_quick_dive) |
+| Reproducibility | Szklo:9 | [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) | [```for```loop](https://colab.research.google.com/drive/1YFrdQoDtLMLczXt0PHXKwHEFDa8Ee4rV?authuser=1#scrollTo=2_for_loop_quick_dive) |
 | Maximum likelihood |  | Likelihood; AIC; BIC; ```source()``` |
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
 
