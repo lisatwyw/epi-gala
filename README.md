@@ -27,13 +27,10 @@
 | Biases | Jekel:4 | |
 
 ## Advanced topics
-
-Textbook:
-
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
-| Reproducibility | [Szklo:9](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_411) | [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) | [```for```loop](https://colab.research.google.com/drive/1YFrdQoDtLMLczXt0PHXKwHEFDa8Ee4rV?authuser=1#scrollTo=2_for_loop_quick_dive) |
+| Reproducibility | [Szklo:9](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_411) | [Coding style guide](https://google.github.io/styleguide/Rguide.html) [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) | [```for```loop](https://colab.research.google.com/drive/1YFrdQoDtLMLczXt0PHXKwHEFDa8Ee4rV?authuser=1#scrollTo=2_for_loop_quick_dive) |
 | Maximum likelihood |  | Likelihood; AIC; BIC; ```source()``` |
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
 
