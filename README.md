@@ -1,19 +1,17 @@
-# HSCI 805
-
-[Trying R](https://hub-binder.mybinder.ovh/user/binder-examples-r-ew5gcpk9/notebooks/index.ipynb)
+# Epi-Galla
 
 
-## Skills to acquire
+## Ultimate goals  
 
-- Communication skills. Epidemiologists use speaking and writing skills to inform officials and the public, such as for community outreach activities to explain health risks. They also must be able to convey information effectively to other health workers.
+- Communication skills: Epidemiologists use speaking and writing skills to inform officials and the public, such as for community outreach activities to explain health risks. They also must be able to convey information effectively to other health workers.
 
-- Critical-thinking skills. Epidemiologists must be able to consider a variety of resources in responding to a public health problem or health-related emergency.
+- Critical-thinking skills: Epidemiologists must be able to consider a variety of resources in responding to a public health problem or health-related emergency.
 
-- Detail oriented. Epidemiologists must be precise and accurate in moving from observation and interview to conclusions.
+- Detail oriented: Epidemiologists must be precise and accurate in moving from observation and interview to conclusions.
 
-- Leadership skills. Epidemiologists may direct staff in research or in investigating a disease. They also may need to assign work and evaluate staff performances.
+- Leadership skills: Epidemiologists may direct staff in research or in investigating a disease. They also may need to assign work and evaluate staff performances.
 
-- Math and statistical skills. Epidemiologists may need to analyze data when reviewing results from studies and surveys. Skill in using large databases and statistical computer programs is critical.
+- Math and statistical skills: Epidemiologists may need to analyze data when reviewing results from studies and surveys. Skill in using large databases and statistical computer programs is critical.
 
 
 ## Topics 
@@ -28,3 +26,6 @@
 | Study designs| || | |
 || Cross-over | | [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) |
 || ||| 
+
+
+[Trying R](https://hub-binder.mybinder.ovh/user/binder-examples-r-ew5gcpk9/notebooks/index.ipynb)
