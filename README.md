@@ -21,7 +21,7 @@
 | Study designs |
 | Observational| Bland:3; Szklo:1  | |
 | Experimental | Bland:2; Jekel:4,5,12-13 |
-| Cross-over | |  [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) | |
+| Cross-over | |  [Series #18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345345/pdf/Dtsch_Arztebl_Int-109-0276.pdf) | |
 | | |
 
 ## Advanced topics
