@@ -14,7 +14,7 @@
 ||
 | Frequency measures| Jekel:2; Szklo:2-3 | 
 | Probability; PDFs | Jekel:7-8| | [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
-| Bayesian approach  | Bland:22 | |  $P(D|T) proto P(T|D) \times P(D)$ |
+| Bayesian approach  | Bland:22 | |  $P(D|T) proto P(T|D)xP(D)$ |
 | Hypothesis testing | Jekel:10-11 |  |  | Confidence interval; standard error | 
 |||
 | Survival data analysis w/ CPH| Bland:16 | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
