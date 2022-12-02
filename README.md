@@ -4,6 +4,8 @@
 
 ## Topics 
  
+### Epi toolkits
+ 
 | Topic  | Reading | Extra reading | Colab demos |  Keyterms |
 | -- |  -- |-- | -- |-- |
 | Bivariate regression & correlation | | Bland:11 | |
@@ -18,6 +20,8 @@
 | Study designs |
 | Cross-over | |  [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) | |
 | | |
+
+## Replication
 
 | Topic  | Reading | Extra reading | Colab demos |  Keyterms |
 | -- |  -- |-- | -- |-- |
