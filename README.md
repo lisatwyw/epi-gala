@@ -21,7 +21,7 @@
 | Bivariate regression & correlation | | Bland:11 | |
 || | 
 |Frequency measures|  | Jekel:2; Szklo:3 
-| Probability rules; Bayes’ Theorem  | Jekel:7-8| |
+| Probability; PDFs; Bayes’ Theorem  | Jekel:7-8| [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
 ||||
 | Study designs| || | |
 || Cross-over | | [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) |
