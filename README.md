@@ -6,7 +6,7 @@
  
 ### Epi toolkits
  
-| Topic  | Reading | Extra reading | Colab demos |  Keyterms |
+| Topic  | Relevant chapters | Supp. readings | Colab demos |  Keyterms |
 | -- |  -- |-- | -- |-- |
 | Bivariate regression & correlation | | Bland:11 | |
 | Linear regression | Jekel:12; Bland:13 | |
