@@ -8,7 +8,7 @@
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
 | -- |  -- |-- | -- |-- |
-| Describing variations in data | Jekel:9 | |
+| Describing variations in data | Jekel:9 | ["Too many digits"](https://adc.bmj.com/content/100/7/608) |
 | Bivariate regression & correlation |  Bland:11 | | [Bivariate regression vs correlation](https://github.com/lisatwyw/epi-galla/blob/main/1st_bivariate_regression.ipynb) | ```data.frame```; ```t()```; ```matrix()```|
 | Linear regression | Jekel:12; Bland:13 | | [Funnel plot, etc.](https://github.com/lisatwyw/epi-galla/blob/main/LR_recap.ipynb) | |
 | Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
