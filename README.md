@@ -21,6 +21,7 @@
 
 | Topic  | Reading | Extra reading | Colab demos |  Keyterms |
 | -- |  -- |-- | -- |-- |
+| Reproducibility | | [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) ||
 | Maximum likelihood |  | Likelihood; AIC; BIC; ```source``` |
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
 
