@@ -16,7 +16,7 @@
 | Frequency measures| Jekel:2; [Szklo:2](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_49); Szklo:3 | 
 | Probability; PDFs | Jekel:7-8| | [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
 | Bayesian approach  | Bland:22 | | | P(D;T)∝P(T;D)xP(D) |
-| Hypothesis testing | Jekel:10-11 |  |  | Confidence interval; standard error | 
+| Hypothesis testing | Jekel:10-11; [Bland:13](https://canvas.sfu.ca/files/20339652/) |  |  | Confidence interval; standard error | 
 |||
 | Clinical Epi | Jekel:7-8 |  
 | Survival data analysis w/ CPH| Bland:16 | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
@@ -30,7 +30,7 @@
 
 Textbook:
 
-
+ 
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
 | Reproducibility | [Szklo:9](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_411) | [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) | [```for```loop](https://colab.research.google.com/drive/1YFrdQoDtLMLczXt0PHXKwHEFDa8Ee4rV?authuser=1#scrollTo=2_for_loop_quick_dive) |
