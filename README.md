@@ -22,7 +22,7 @@
 ||
 | Frequency measures|  | Jekel:2; Szklo:3 
 | | Probability; PDFs; Bayes’ Theorem  | Jekel:7-8| [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
-| Hypothesis testing | Jekel:10-11 | || 
+| Hypothesis testing | | Jekel:10-11 | | | Confidence interval; standard error | 
 ||
 | Study designs| || | |
 || Cross-over | | [Series #18]( https://canvas.sfu.ca/files/20468102/download?download_frd=1 ) |
