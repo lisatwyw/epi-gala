@@ -11,16 +11,16 @@
 | Describing trends & variations in data | Jekel:9 | ["Too many digits"](https://adc.bmj.com/content/100/7/608) | | ```mean()```, ```sd()```, ```median()```, ```IQR()```; ```stem()```; ```hist()```|
 ||
 | Bivariate regression & correlation |  Bland:11 | | [Bivariate regression vs correlation](https://github.com/lisatwyw/epi-galla/blob/main/1st_bivariate_regression.ipynb) | ```data.frame```; ```t()```; ```matrix()```|
-| Linear regression | Jekel:12; Bland:13 | | [Simulate funnel plot, LR recapped](https://github.com/lisatwyw/epi-galla/blob/main/LR_recap.ipynb) | |
+| Linear regression | Jekel:12; Bland:15 (multiple regression) | | [Simulate funnel plot, LR recapped](https://github.com/lisatwyw/epi-galla/blob/main/LR_recap.ipynb) | |
 | Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
 ||
 | Frequency measures| Jekel:2; [Szklo:2](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_49); Szklo:3 | 
-| Probability; PDFs | Jekel:7-8| | [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
+| Probability; PDFs | Jekel:7-8; Bland:6 | | [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
 | Bayesian approach  | Bland:22 | | | P(D;T)∝P(T;D)xP(D) |
-| Hypothesis testing | Jekel:10-11; [Bland:13](https://canvas.sfu.ca/files/20339652/) | [Chi-square test of independence](https://www.cbsd.org/cms/lib010/PA01916442/Centricity/Domain/1912/10.1%20B%20Chi-Square%20test%20of%20independence.pdf) |  | Confidence interval; standard error; variance | 
+| Hypothesis testing | Jekel:10-11; ["Analysis of cross-tabulations" Bland:13](https://canvas.sfu.ca/files/20339652/) | [Chi-square test of independence](https://www.cbsd.org/cms/lib010/PA01916442/Centricity/Domain/1912/10.1%20B%20Chi-Square%20test%20of%20independence.pdf) |  | Confidence interval; standard error; variance | 
 ||
 | Clinical Epi | Jekel:7-8; Bland:20.6 |  
-| Survival data analysis w/ CPH| Bland:16 Bland:16.3 (logrank test) | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
+| Survival data analysis w/ CPH| Bland:16.3 (logrank test) | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
 
 ##  Study designs 
 
