@@ -44,7 +44,7 @@
 
 
 ## R: importing function definitions
-
+```
 source('https://raw.githubusercontent.com/cran/car/master/R/durbinWatsonTest.R');
 durbinWatsonTest( fit2 )
 
@@ -53,5 +53,5 @@ message( 'BIC of fit1: ', useBIC( fit1 ) )
 
 source('https://raw.githubusercontent.com/cran/car/master/R/ncvTest.R' ); 
 ncvTest( fit2)
-
+```
 
