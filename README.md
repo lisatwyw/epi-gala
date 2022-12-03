@@ -40,3 +40,15 @@
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
 
 
+## R: importing function definitions
+
+source('https://raw.githubusercontent.com/cran/car/master/R/durbinWatsonTest.R');
+durbinWatsonTest( fit2 )
+
+source('https://raw.githubusercontent.com/cran/AICcmodavg/master/R/useBIC.R');
+message( 'BIC of fit1: ', useBIC( fit1 ) )
+
+source('https://raw.githubusercontent.com/cran/car/master/R/ncvTest.R' ); 
+ncvTest( fit2)
+
+
