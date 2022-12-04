@@ -1,9 +1,9 @@
 
 ## Ultimate goals  
 
-"What Skills should an Epidemiologist Have?"
+According to [1], recommended skills include:
 
-"- Communication skills: Epidemiologists use speaking and writing skills to inform officials and the public, such as for community outreach activities to explain health risks. They also must be able to convey information effectively to other health workers.
+- "Communication skills: Epidemiologists use speaking and writing skills to inform officials and the public, such as for community outreach activities to explain health risks. They also must be able to convey information effectively to other health workers.
 
 - Critical-thinking skills: Epidemiologists must be able to consider a variety of resources in responding to a public health problem or health-related emergency.
 
