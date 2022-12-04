@@ -55,7 +55,7 @@ source('https://raw.githubusercontent.com/cran/car/master/R/ncvTest.R' );
 ncvTest( fit2)
 ```
 
-
+### ```epi.2by2```
 ```
 source('https://raw.githubusercontent.com/cran/epiR/master/R/epi.2by2.R')
 source('https://raw.githubusercontent.com/cran/epiR/master/R/zexact.R')
@@ -75,4 +75,25 @@ source('https://raw.githubusercontent.com/cran/epiR/master/R/zMHRD.Sato.R')
 source('https://raw.githubusercontent.com/cran/epiR/master/R/zMHRD.GR.R')
 
 epi.2by2( c(13,2163,5,3349) )
+```
+
+
+### ```riskratio.wald```
+```
+if (0 & (!exists('riskratio')) )
+{
+  install.packages("epitools")
+  library( epitools )  
+  
+} else
+{
+  source( 'https://raw.githubusercontent.com/cran/epitools/master/R/ormidp.test.R' )
+  source( 'https://raw.githubusercontent.com/cran/epitools/master/R/tab2by2.test.R' )
+  source('https://raw.githubusercontent.com/cran/epitools/master/R/table.margins.R' )
+  source( 'https://raw.githubusercontent.com/cran/epitools/master/R/riskratio.wald.R' )
+  source( 'https://raw.githubusercontent.com/cran/epitools/master/R/epitable.R' )
+
+  riskratio.wald( matrix( c(11,23,11,22), 2) )
+}
+
 ```
