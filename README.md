@@ -15,7 +15,7 @@
 ||
 | Linear regression | Bland:15 (multiple regression) | | [Simulate funnel plot, LR recapped](https://github.com/lisatwyw/epi-galla/blob/main/LR_recap.ipynb) | |
 | GLM | Jekel:13 |
-| Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | | |
+| Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | |<ul><li>QQ</li>VIF<li></li><li>logit</li></ul> |
 ||
 | Frequency measures| Jekel:2; [Szklo:2](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_49); Szklo:3 | 
 | Probability; PDFs | Jekel:7-8; Bland:6 | | [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
@@ -29,8 +29,8 @@
 
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
 | -- |  -- |-- | -- |-- |
-| Experimental | Bland:2; Jekel:4,12-13 | [Series #11: Data Analysis of Epidemiological Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | |  Review on applications of <ul><li>poisson regression; </li><li>logistic regresssion</li><li>relative risk (vs difference), prevalence, cumulative incidence estimate</li><li>effect modifications</li></ul> |
-| Observational| Bland:3; [Szklo:1](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_3); Jekel:5  | [Series #10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | | Nested case-control; RCT (```samp```)|
+| Experimental | Bland:2; Jekel:4,12-13 | [Series #11: Data Analysis of Epidemiological Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | |  Review on applications of <ul><li>poisson regression </li><li>logistic regresssion</li><li>relative risk (vs difference), prevalence, cumulative incidence estimate</li><li>effect modifications</li></ul> |
+| Observational| Bland:3; [Szklo:1](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_3); Jekel:5  | [Series #10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | | Nested case-control; RCT ```sample()```|
 | Cross-over | | [Series #18 Crossover](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345345/pdf/Dtsch_Arztebl_Int-109-0276.pdf) | |
 | Biases | Jekel:4 | |
 
@@ -38,6 +38,7 @@
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
+| Replication | | [Harris et al. "Reproducibility of 6 Published Studies in Public Health Services and Systems Research"](https://journals.lww.com/jphmp/Abstract/2019/03000/Examining_the_Reproducibility_of_6_Published.6.aspx) |
 | Reproducibility | [Szklo:9](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_411) | [Coding style guide](https://google.github.io/styleguide/Rguide.html); [Writing functions to prevent errors](https://bookdown.org/medepi/phds/programming-and-r-functions.html#writing-r-functions) | [```for```loop](https://colab.research.google.com/drive/1YFrdQoDtLMLczXt0PHXKwHEFDa8Ee4rV?authuser=1#scrollTo=2_for_loop_quick_dive) |
 | Maximum likelihood | Bland:22.7 | Likelihood; AIC; BIC; ```source()``` |
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
