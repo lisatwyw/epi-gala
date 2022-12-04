@@ -55,3 +55,24 @@ source('https://raw.githubusercontent.com/cran/car/master/R/ncvTest.R' );
 ncvTest( fit2)
 ```
 
+
+```
+source('https://raw.githubusercontent.com/cran/epiR/master/R/epi.2by2.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zexact.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zincrate.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zRRwald.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zRRtaylor.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zRRscore.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zORwald.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zORscore.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zlimit.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zORml.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zARwald.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zARscore.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zz2stat.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zlimit.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zMHRD.Sato.R')
+source('https://raw.githubusercontent.com/cran/epiR/master/R/zMHRD.GR.R')
+
+epi.2by2( c(13,2163,5,3349) )
+```
