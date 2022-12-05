@@ -30,7 +30,7 @@
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
 | -- |  -- |-- | -- |-- |
 | Experimental | Bland:2; Jekel:4,12-13 | [Series #11: Data Analysis of Epidemiological Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | |  Review on applications of <ul><li>poisson regression </li><li>logistic regresssion</li><li>relative risk (vs difference), prevalence, cumulative incidence estimate</li><li>effect modifications</li></ul> |
-| Observational| Bland:3; [Szklo:1](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_3); Jekel:5  | [Series #10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | | Nested case-control; RCT ```sample()```|
+| Observational| Bland:3; [Szklo:1](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_3); Jekel:5  | [Series #11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853157/pdf/Dtsch_Arztebl_Int-107-0187.pdf) | | Nested case-control; RCT ```sample()```|
 | Cross-over | | [Series #18 Crossover](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345345/pdf/Dtsch_Arztebl_Int-109-0276.pdf) | |
 | Biases | Jekel:4 | |
 
