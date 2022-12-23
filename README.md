@@ -23,7 +23,7 @@
 | Hypothesis testing | Jekel:10-11; ["Analysis of cross-tabulations" Bland:13](https://canvas.sfu.ca/files/20339652/) | [Chi-square test of independence](https://www.cbsd.org/cms/lib010/PA01916442/Centricity/Domain/1912/10.1%20B%20Chi-Square%20test%20of%20independence.pdf) |  | Confidence interval; standard error; variance | 
 ||
 | Clinical Epi | Jekel:7-8; Bland:20.6 |  
-| Survival data analysis w/ CPH| Bland:16.3 (logrank test) | | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
+| Survival data analysis w/ CPH| Bland:16.3 (logrank test) | [R package ```survivalmodels```](https://raphaels1.github.io/survivalmodels/index.html) | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
 
 ##  Study designs 
 
