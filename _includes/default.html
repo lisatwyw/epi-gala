@@ -1,0 +1,14 @@
+<!doctype>
+<html>
+  <head>
+    <title> </title>
+    <script>
+      {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+      {% endif %}
+    </script>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
