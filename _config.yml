@@ -17,6 +17,6 @@ title: epi-gala
 markdown: GFM
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-hacker
 # jekyll-theme-cayman
-# jekyll-theme-hacker
+# jekyll-theme-merlot
