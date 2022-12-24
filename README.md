@@ -12,7 +12,7 @@
 ||
 | Linear regression | Bland:15 (multiple regression) | | [Simulate funnel plot, LR recapped](https://github.com/lisatwyw/epi-galla/blob/main/LR_recap.ipynb) | |
 | GLM | Jekel:13 |
-| Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | |<ul><li>QQ</li>VIF<li></li><li>logit</li></ul> |
+| Logistic regression | Bland:15.10 | [Harris’ primer](https://fmch.bmj.com/content/fmch/9/Suppl_1/e001290.full.pdf) | |<ul><li>QQ</li><li>VIF</li><li>logit</li></ul> |
 ||
 | Frequency measures| Jekel:2; [Szklo:2](http://proxy.lib.sfu.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1229435&site=ehost-live&ebv=EB&ppid=pp_49); Szklo:3 | 
 | Probability; PDFs | Jekel:7-8; Bland:6 | | [Distributions](https://github.com/lisatwyw/epi-galla.github.io/blob/main/Distributions.ipynb) |
