@@ -1,9 +1,6 @@
 # Epi-Gala
-
-
 ## Topics 
  
-### Epi toolkits
 <details><summary>Epi tooklits</summary>
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
@@ -27,7 +24,8 @@
 
 </details>
 
-##  Study designs 
+<details><summary>Study designs </summary>
+ 
 
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
 | -- |  -- |-- | -- |-- |
@@ -36,7 +34,10 @@
 | Cross-over | | [Series #18 Crossover](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345345/pdf/Dtsch_Arztebl_Int-109-0276.pdf) | |
 | Biases | Jekel:4 | |
 
-## Advanced topics
+</details>
+
+<details><summary>Advanced topics</summary>
+
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms |
 | -- |  -- |-- | -- |-- |
@@ -45,8 +46,10 @@
 | Maximum likelihood | Bland:22.7 | Likelihood; AIC; BIC; ```source()``` |
 | Predictive models | | | [LDA/ Bone mineral density](https://github.com/lisatwyw/epi-galla/blob/main/LDA_predictions_BoneMineralDensity.ipynb) | | 
 
+</details>
+<details><summary>R: importing function definitions</summary>
 
-## R: importing function definitions
+
 ```
 source('https://raw.githubusercontent.com/cran/car/master/R/durbinWatsonTest.R');
 durbinWatsonTest( fit2 )
@@ -100,3 +103,4 @@ if (0 & (!exists('riskratio')) )
 }
 
 ```
+</details>
