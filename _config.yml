@@ -13,8 +13,8 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 # this version will render table properly https://github.com/orgs/community/discussions/23945
-title: Slate theme
+title: epi-gala
 description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-slate
+theme: 
