@@ -14,7 +14,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 # this version will render table properly https://github.com/orgs/community/discussions/23945
 title: epi-gala
-description: Slate is a theme for GitHub Pages.
+markdown: GFM
 show_downloads: true
 google_analytics:
-theme:  jekyll-theme-cayman
+theme: jekyll-theme-cayman
