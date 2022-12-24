@@ -15,7 +15,7 @@ include:
 # this version will render table properly https://github.com/orgs/community/discussions/23945
 title: epi-gala
 markdown: GFM
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 theme: jekyll-theme-hacker
