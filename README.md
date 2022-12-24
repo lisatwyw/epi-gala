@@ -1,10 +1,10 @@
 # Epi-Gala
 
 
-
 ## Topics 
  
 ### Epi toolkits
+<details><summary>Epi tooklits</summary>
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
 | -- |  -- |-- | -- |-- |
@@ -24,6 +24,8 @@
 ||
 | Clinical Epi | Jekel:7-8; Bland:20.6 |  
 | Survival data analysis w/ CPH| Bland:16.3 (logrank test) | [R package ```survivalmodels```](https://raphaels1.github.io/survivalmodels/index.html) | [CPH](https://github.com/lisatwyw/epi-galla/blob/main/CPH_stanford2.ipynb) |  ```survfit()``` |
+
+</details>
 
 ##  Study designs 
 
