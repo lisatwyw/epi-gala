@@ -1,6 +1,15 @@
 # Epi-Gala
-## Topics 
- 
+
+## References
+
+- Jekel's: Epidemiology, Biostatistics, Preventive Medicine, and Public Health, 5th Edition
+- Epidemiology: Beyond the Basics, 4th Edition
+- Dr. Martin Bland's "An Introduction to Medical Statistics"
+  
+## Topics
+
+Click to view table of key terms chapter readings (above list) & supplemental readings.
+
 <details><summary>Epi tooklits</summary>
  
 | Topic  | Relevant chapters | Supp. readings | Colab demos |  Key terms / R functions |
@@ -49,6 +58,7 @@
 </details>
 <details><summary>R: importing function definitions</summary>
 
+### ncvTest
 
 ```
 source('https://raw.githubusercontent.com/cran/car/master/R/durbinWatsonTest.R');
