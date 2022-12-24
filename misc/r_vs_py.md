@@ -1,4 +1,4 @@
-
+# R vs Python
 
 |R|Python |
 |--|--|
@@ -7,7 +7,9 @@
 | ```head(df)```| ```df.head()``` |
 | ```dim(df)```| ```df.shape()``` |
 | ```colnames(df)```| ```df.keys()``` |
-|||
 ||
+| Reproducibility |
+||
+| Control flow |
 |  ```if (1){hi=1}``` | ```if (1):hi=1``` |
 ||
