@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-td {
+td, tr {
   border: 1px dotted #555;
 }
