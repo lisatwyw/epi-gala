@@ -1,12 +1,16 @@
 <!doctype>
 <html>
   <head>
-    <title> Epi-gala </title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DW8BKPS69J"></script>
     <script>
-      {% if site.google_analytics and jekyll.environment == 'production' %}
-      {% include analytics.html %}
-      {% endif %}
-    </script><!-- https://desiredpersona.com/google-analytics-jekyll/ -->
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-DW8BKPS69J');
+    </script>
+    
+    <title> Epi-gala </title>
   </head>
   <body>
     {{ content }}
