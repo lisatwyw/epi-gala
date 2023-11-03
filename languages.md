@@ -2,8 +2,8 @@
 | | R |Python | SAS | Excel |
 | :-- | :--| :-- | :-- | :-- | 
 | R | | | | https://rstudio-conf-2020.github.io/r-for-excel/ |
-| Python ||
-| SAS | |
+| Python |  | X | SASPy | |  
+| SAS | | | https://developer.sas.com/guides/python.html | X | 
 | Excel |
 
 
