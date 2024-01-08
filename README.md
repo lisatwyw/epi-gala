@@ -7,7 +7,7 @@
 - Dr. Martin Bland's "An Introduction to Medical Statistics"
 - "Data from: The reproducibility of research and the misinterpretation of p-values", Colquhoun (DRYAD 2017)Links to an external site.
 - "Applied Survival Analysis using R" 
-- [Epidemics: Models and Data Using R" Links to an external site](https://link.springer.com/content/pdf/10.1007/978-3-031-12056-5.pdf)
+- [Epidemics: Models and Data Using R Links to an external site](https://link.springer.com/content/pdf/10.1007/978-3-031-12056-5.pdf)
 - "Maximum Likelihood, Profile Likelihood, and Penalized Likelihood: A Primer", Cole et al. J of Epidemiology 2013 
 - Basic Models for Disease Occurrence in Epidemiology, Flanders et al. 1995 
   
