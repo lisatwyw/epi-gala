@@ -2,54 +2,56 @@ library(shinydashboard)
 library(leaflet)
 
 header <- dashboardHeader(
-  title = "Test"
+  title = "Twin Cities Buses"
 )
 
 body <- dashboardBody(
   fluidRow(
     column(width = 9,
       box(width = NULL, solidHeader = TRUE,
-        leafletOutput("map", height = 500)
+        leafletOutput("busmap", height = 500)
       ),
       box(width = NULL,
-        uiOutput("Table")
+        uiOutput("numVehiclesTable")
       )
     ),
     column(width = 3,
       box(width = NULL, status = "warning",
-        uiOutput("Select"),
-        checkboxGroupInput("Region", "Show",
+        uiOutput("routeSelect"),
+        checkboxGroupInput("directions", "Show",
           choices = c(
-            Fraser Health = 4,
-            Vancouver Coastal Health = 1,
-            Northern Health = 2,
-            Interior Health = 3,
-            Island Health = 5
+            Northbound = 4,
+            Southbound = 1,
+            Eastbound = 2,
+            Westbound = 3
           ),
           selected = c(1, 2, 3, 4)
         ),
         p(
           class = "text-muted",
-          paste("")          
+          paste("Note: a route number can have several different trips, each",
+                "with a different path. Only the most commonly-used path will",
+                "be displayed on the map."
+          )
         ),
-        actionButton("zoomButton", "Zoom to fit")
+        actionButton("zoomButton", "Zoom to fit buses")
       ),
       box(width = NULL, status = "warning",
         selectInput("interval", "Refresh interval",
           choices = c(
-            "30 day" = 30,
-            "1 y" = 365,
-            "2 y" = 730,
-            "5 y" = 1825,
-            "10 y" = 3650
+            "30 seconds" = 30,
+            "1 minute" = 60,
+            "2 minutes" = 120,
+            "5 minutes" = 300,
+            "10 minutes" = 600
           ),
-          selected = "30"
+          selected = "60"
         ),
         uiOutput("timeSinceLastUpdate"),
-        actionButton("calculate", "Calculate now"),
+        actionButton("refresh", "Refresh now"),
         p(class = "text-muted",
           br(),
-          "Calculate"
+          "Source data updates every 30 seconds."
         )
       )
     )
@@ -61,3 +63,6 @@ dashboardPage(
   dashboardSidebar(disable = TRUE),
   body
 )
+
+
+
