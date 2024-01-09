@@ -110,7 +110,7 @@ if (0 & (!exists('riskratio')) )
 {
   source( 'https://raw.githubusercontent.com/cran/epitools/master/R/ormidp.test.R' )
   source( 'https://raw.githubusercontent.com/cran/epitools/master/R/tab2by2.test.R' )
-  source('https://raw.githubusercontent.com/cran/epitools/master/R/table.margins.R' )
+  source( 'https://raw.githubusercontent.com/cran/epitools/master/R/table.margins.R' )
   source( 'https://raw.githubusercontent.com/cran/epitools/master/R/riskratio.wald.R' )
   source( 'https://raw.githubusercontent.com/cran/epitools/master/R/epitable.R' )
 
