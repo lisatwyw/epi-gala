@@ -13,7 +13,7 @@
   
 ## Topics
 
-Click to view table of key terms chapter readings (above list) & supplemental readings.
+Click on white arrow to view a table of key terms, related chapter readings (above list), demo notebooks, and supplemental readings.
 
 <details><summary>Epi tooklits</summary>
  
