@@ -1,6 +1,6 @@
 # Epi-Gala
 
-## Suggested textbooks
+## Great references
 
 - Jekel's: Epidemiology, Biostatistics, Preventive Medicine, and Public Health, 5th Edition
 - Epidemiology: Beyond the Basics, 4th Edition
